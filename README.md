@@ -32,8 +32,6 @@ With over 17 years of experience at the intersection of forestry, geoinformatics
 
     PowerShell (infrastructure scripting & automation)
 
-    React (frontend for spatial web apps)
-
     QGIS, ArcGIS, Topol-L, custom forestry GIS tools
 
 ⚽ I'm passionate about football, maps, carbon, and making messy data actually useful.
